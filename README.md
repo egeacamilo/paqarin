@@ -29,3 +29,16 @@ You, the World and I, Jon Rafman, 2010
 Sinofuturism (1839 - 2046 AD), Lawrence Lek, 2016
 STILL LIFE (BETAMALE), Jon Rafman, 2017
 Swarm, Paraic and Kevin McGloughlin, 2020
+
+
+
+
+
+MARCO CONCEPTUAL
+IA: Inteligencia artificial: Combinación de algoritmos planteados con el propósito de crear máquinas y modelos que
+presenten las mismas capacidades que el ser humano.
+GAN: Las Redes Generativas Antagónicas, también conocidas como GANs en inglés, son una clase de algoritmos de
+inteligencia artificial que se utilizan en el aprendizaje no supervisado, implementadas por un sistema de dos redes
+neuronales que compiten mutuamente en una especie de juego de suma cero.
+Aprendizaje no supervisado: es un método de Aprendizaje Automático donde un modelo se ajusta a las observaciones. Se
+distingue del Aprendizaje supervisado por el hecho de que no hay un conocimiento a priori. El aprendizaje no supervisado trata los objetos de entrada (DATA) como un conjunto de variables aleatorias
